@@ -5,7 +5,8 @@
     <img src="https://lanyard.cnrad.dev/api/1096697969962655744?bg=1a1b26&animated=true&showDisplayName=true&borderRadius=10px" alt="Discord Live Status" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Unknown-0744&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <strong>Profile Views</strong><br>
+  <img src="https://count.getloli.com/get/@Unknown-0744?theme=moebooru" alt="Profile Views" />
 </div>
 
 ---
