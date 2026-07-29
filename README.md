@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Passionate+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Unknown-0744;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,12 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Algorithm Challenges**
+- 🔭 I’m currently working on **a Discord verification bot**
+- 🌱 I’m currently learning **React.js, TypeScript, and Advanced Python**
 - 💬 Ask me about **Web Development, Tech, & Life**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **unnone0744@gmail.com**
 - ⚡ Fun fact: **I love coffee and coding! ☕**
 
 ---
