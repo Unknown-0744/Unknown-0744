@@ -19,24 +19,40 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+**💻 Languages & Frameworks**
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,docker,figma,linux" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css" alt="Languages and Frameworks" />
+  </a>
+</p>
+
+**⚙️ Tools & Environments**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,docker,linux,figma" alt="Tools and Environments" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknown-0744&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=1a1b26" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Unknown-0744&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=1a1b26" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknown-0744&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&background=1a1b26" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknown-0744&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknown-0744&theme=tokyo-night&bg_color=1a1b26&color=2196F3&line=2196F3&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
-
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-0744&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=1a1b26" alt="Top Languages" />
