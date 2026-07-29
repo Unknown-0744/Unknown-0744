@@ -8,25 +8,23 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **a Discord verification bot**
-- 🌱 I’m currently learning **React.js, TypeScript, and Advanced Python**
-- 💬 Ask me about **Web Development, Tech, & Life**
-- 📫 How to reach me: **unnone0744@gmail.com**
-- ⚡ Fun fact: **I love coffee and coding! ☕**
+### About Me
+- Currently building a Discord verification bot
+- Deepening my knowledge in React.js, TypeScript, and Advanced Python
+- Reach out to me: **unnone0744@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
+### Tech Stack
 
-**💻 Languages & Frameworks**
+**Languages & Frameworks**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css" alt="Languages and Frameworks" />
   </a>
 </p>
 
-**⚙️ Tools & Environments**
+**Tools**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,docker,linux,figma" alt="Tools and Environments" />
@@ -35,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats
 
 <div align="center">
   <table>
@@ -60,7 +58,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -70,7 +68,7 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+### Contributions
 
 <p align="center">
   <picture>
@@ -82,7 +80,7 @@
 
 ---
 
-### 🌐 Connect with me
+### Contact
 
 <p align="center">
   <a href="https://discord.com/users/1096697969962655744" target="_blank">
