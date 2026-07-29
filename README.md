@@ -80,10 +80,10 @@
 
 ---
 
-### Contact
+### Live Status & Contact
 
 <p align="center">
   <a href="https://discord.com/users/1096697969962655744" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://lanyard.cnrad.dev/api/1096697969962655744?bg=1a1b26&animated=true" alt="Discord Live Status" />
   </a>
 </p>
