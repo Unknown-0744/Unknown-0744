@@ -84,6 +84,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/1096697969962655744" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1096697969962655744?bg=1a1b26&animated=true" alt="Discord Live Status" />
+    <img src="https://lanyard.cnrad.dev/api/1096697969962655744?bg=1a1b26&animated=true&showDisplayName=true&borderRadius=10px" alt="Discord Live Status" />
   </a>
 </p>
