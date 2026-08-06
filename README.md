@@ -37,21 +37,10 @@
 ### GitHub Stats & Trophies
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-stats.svg" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknown-0744&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&background=1a1b26" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-isocalendar.svg" alt="GitHub Isometric Calendar" />
-  </a>
-  <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-languages.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-unified.svg" alt="GitHub Metrics" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknown-0744&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&background=1a1b26" alt="GitHub Streak" />
+</div>
 
 ---
 
