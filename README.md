@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Unknown-0744&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=1a1b26" alt="GitHub Stats" />
+        <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-stats.svg" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknown-0744&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&background=1a1b26" alt="GitHub Streak" />
@@ -48,12 +48,10 @@
     </tr>
   </table>
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Unknown-0744&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-achievements.svg" alt="GitHub Achievements" />
   </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-0744&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=1a1b26" alt="Top Languages" />
-</div>
+  <img src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-metrics-languages.svg" alt="Top Languages" />
 
 ---
 
