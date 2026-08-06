@@ -17,7 +17,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: output
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
@@ -30,7 +30,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: output
           base: ""
           plugin_achievements: yes
@@ -46,7 +46,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: output
           base: ""
           plugin_languages: yes
