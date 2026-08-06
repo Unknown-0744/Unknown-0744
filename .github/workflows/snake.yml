@@ -17,14 +17,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate galaga contribution graph
+      - name: generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: 'galaga'
+          games: 'pacman'
           
-      - name: push galaga-contribution-graph.svg to the output branch
+      - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
