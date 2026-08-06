@@ -63,8 +63,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknown-0744&theme=tokyo-night&bg_color=1a1b26&color=2196F3&line=2196F3&point=ffffff&hide_border=true" alt="Activity Graph" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/galaga-contribution-graph.svg">
+    <img alt="github contribution grid galaga animation" src="https://raw.githubusercontent.com/Unknown-0744/Unknown-0744/output/galaga-contribution-graph.svg">
   </picture>
 </div>
